@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Oleks, and I’m a backend development enthusiast interested in all things Python and Data Science.
-- 🔭 I’m currently working on [Wedding Website]([osobol.com/wedding-website](https://github.com/OleksSobol/wedding-website)) and [Expenses tracker](https://github.com/OleksSobol/expenses-tracker).
+- 🔭 I’m currently working on [Wedding Website]([osobol.com/wedding-website](https://github.com/OleksSobol/wedding-website) and [Expenses tracker](https://github.com/OleksSobol/expenses-tracker).
 - 🌱 I’m currently learning through the [Back-end Developer Path](https://www.boot.dev/dashboard), [CS50's Introduction to Cybersecurity](https://pll.harvard.edu/course/cs50s-introduction-cybersecurity)
 - 👯 I’m looking to collaborate on projects related to AI and API.
 - 🤔 I’m seeking help with TypeScript, Go and Game Development.
