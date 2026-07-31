@@ -1,6 +1,5 @@
 ## Hello
-My name is Oleks, and I’m a backend development enthusiast.
-- I’m currently learning through the [Back-end Developer Path](https://www.boot.dev/dashboard), [CS50's Introduction to Cybersecurity](https://pll.harvard.edu/course/cs50s-introduction-cybersecurity)
+My name is Oleks, and I’m a full stack developer.
 - I’m looking to collaborate on projects related to AI and Cybersecurity.
 - I’m seeking help with TypeScript, Go and Game Development.
   - Send ideas/ requests to me@osobol.com
